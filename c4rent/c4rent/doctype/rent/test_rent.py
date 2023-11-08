@@ -1,4 +1,4 @@
-# Copyright (c) 2023, ECS and Contributors
+# Copyright (c) 2023, Connect 4 Systems and Contributors
 # See license.txt
 
 # import frappe
